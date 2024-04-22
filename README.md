@@ -9,6 +9,7 @@ Side-by-side comparison of Dynamic Programming Depth First Search and Brute Forc
 You must have the SFML dynamic linking library installed, the same ones from the COP Minesweeper Project
 
 To run, navigate to chess-search/cmake-build-debug, and run chess.exe
+
 From there, follow as prompted
 
 If you want to compile on your own and have CLion installed, you can go to "Project from Version Control" and paste the clone link from the GitHub
