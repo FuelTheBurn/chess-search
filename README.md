@@ -13,3 +13,5 @@ To run, navigate to chess-search/cmake-build-debug, and run chess.exe
 From there, follow as prompted
 
 If you want to compile on your own and have CLion installed, you can go to "Project from Version Control" and paste the clone link from the GitHub
+
+Here is a video of me running it: https://www.youtube.com/watch?v=1vbt1nU--S4
